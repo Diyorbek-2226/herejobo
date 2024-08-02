@@ -1,0 +1,23 @@
+.Btn_content{
+    background-color: #23AF5F;
+    color: white;
+    width: 507px;
+    height: 91px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    padding: 15px 20px;
+   font-size: 32px; 
+   box-shadow: 10px 10px 20px #a4a3a3; 
+}
+.Btn_content:hover{
+    background-color: #23AF5F;
+    color: white;
+    width: 507px;
+    height: 91px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    padding: 15px 20px;
+   font-size: 32px;
+}

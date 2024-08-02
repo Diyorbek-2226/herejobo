@@ -1,0 +1,12 @@
+nav{
+    padding: 40px 0px;
+}
+.nav_list{
+    color: #004290;
+    font-size: 24px;
+    font-weight: 400;
+}
+.selected{
+    width: 60px;
+    height: 24px;
+}
